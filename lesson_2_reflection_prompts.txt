@@ -5,6 +5,7 @@ you need a place to store your project.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+you can group commits in what makes logical sense.
 
 How can you use the staging area to make sure you have one commit per logical
 change?

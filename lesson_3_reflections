@@ -3,3 +3,8 @@ So you can colaborate with others and to backup data.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 branch and remote control. Also, want to pull when your local project is working before adding changes from github.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks - when using someone elses repository and want to build off of it to customize it for your own needs
+clones - copy a repository onto your local machine
+branches - allows you to work in modules. master branch should always be fully functional. branches let you continue building and testing.
